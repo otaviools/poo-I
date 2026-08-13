@@ -1,0 +1,14 @@
+C:\Users\Otavio\Desktop\poo-I\roteiro-1\bin\Debug\net10.0\roteiro-1.exe
+C:\Users\Otavio\Desktop\poo-I\roteiro-1\bin\Debug\net10.0\roteiro-1.deps.json
+C:\Users\Otavio\Desktop\poo-I\roteiro-1\bin\Debug\net10.0\roteiro-1.runtimeconfig.json
+C:\Users\Otavio\Desktop\poo-I\roteiro-1\bin\Debug\net10.0\roteiro-1.dll
+C:\Users\Otavio\Desktop\poo-I\roteiro-1\bin\Debug\net10.0\roteiro-1.pdb
+C:\Users\Otavio\Desktop\poo-I\roteiro-1\obj\Debug\net10.0\roteiro-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Otavio\Desktop\poo-I\roteiro-1\obj\Debug\net10.0\roteiro-1.AssemblyInfoInputs.cache
+C:\Users\Otavio\Desktop\poo-I\roteiro-1\obj\Debug\net10.0\roteiro-1.AssemblyInfo.cs
+C:\Users\Otavio\Desktop\poo-I\roteiro-1\obj\Debug\net10.0\roteiro-1.csproj.CoreCompileInputs.cache
+C:\Users\Otavio\Desktop\poo-I\roteiro-1\obj\Debug\net10.0\roteiro-1.dll
+C:\Users\Otavio\Desktop\poo-I\roteiro-1\obj\Debug\net10.0\refint\roteiro-1.dll
+C:\Users\Otavio\Desktop\poo-I\roteiro-1\obj\Debug\net10.0\roteiro-1.pdb
+C:\Users\Otavio\Desktop\poo-I\roteiro-1\obj\Debug\net10.0\roteiro-1.genruntimeconfig.cache
+C:\Users\Otavio\Desktop\poo-I\roteiro-1\obj\Debug\net10.0\ref\roteiro-1.dll
