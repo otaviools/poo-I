@@ -1,5 +1,4 @@
-﻿Console.WriteLine("Digite um numero: ");
-string num = Console.ReadLine();
+﻿Console.Write("Digite um numero: "); string num = Console.ReadLine();
 
 int resultado;
 bool validar = int.TryParse(num, out resultado);
